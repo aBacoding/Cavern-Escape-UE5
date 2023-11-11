@@ -1,0 +1,283 @@
+[+] Containers:
+ |- [+] Container: /Game/Map/Midterm_CavernEscape
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:051098A74E70665CF03E94B5911D8BB5 BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_FC3497DE5D47B4AF01_1982217639 Label:Tilemap_TileMap SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-28.000 Y=-97.500 Z=-392.000), Max=(X=4452.000 Y=77.500 Z=1288.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:094935CE45BA93E36E4D42AEFD4D9959 BaseClass: NativeClass:/Script/Paper2D.PaperSpriteActor Name:PaperSpriteActor_UAID_FC3497DE5D471ABB01_1194028207 Label:caveRemasteredV7_Sprite2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=47.553 Y=-56.112 Z=-302.930), Max=(X=2025.875 Y=-3.888 Z=1248.152) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:10CEEF564EE76AFC71A3869B1B824BFF BaseClass: NativeClass:/Script/Engine.TriggerBox Name:TriggerBox_UAID_FC3497DE5D471CBB01_1268679565 Label:TriggerBox7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2027.103 Y=-0.200 Z=-46.700), Max=(X=2112.897 Y=80.200 Z=226.700) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:1120220F467D7B5C740D76B080E08934 BaseClass: NativeClass:/Script/Engine.TriggerBox Name:TriggerBox_UAID_FC3497DE5D47C6AF01_1826195807 Label:TriggerBox SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2446.250 Y=0.000 Z=-60.000), Max=(X=3093.750 Y=80.000 Z=20.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:1629EAD04599C2DBB2035A89B7F114C4 BaseClass:/Game/Blueprints/Enemies/Skeleton/BP_Skeleton.BP_Skeleton_C NativeClass:/Script/PaperZD.PaperZDCharacter Name:BP_Skeleton_C_UAID_FC3497DE5D4723BB01_2037883799 Label:BP_Skeleton SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=958.000 Y=20.397 Z=-39.154), Max=(X=1022.000 Y=77.603 Z=47.154) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:18BD402749A9E0FAE4B98891B8E0D785 BaseClass:/Game/Blueprints/Enemies/Skeleton/BP_Skeleton.BP_Skeleton_C NativeClass:/Script/PaperZD.PaperZDCharacter Name:BP_Skeleton_C_UAID_FC3497DE5D473ABB01_1878418846 Label:BP_Skeleton8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1218.000 Y=20.397 Z=-39.154), Max=(X=1282.000 Y=77.603 Z=47.154) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:1A846CC9478A26ABC960EFAB14286DC1 BaseClass:/Game/Blueprints/Enemies/Skeleton/BP_Skeleton.BP_Skeleton_C NativeClass:/Script/PaperZD.PaperZDCharacter Name:BP_Skeleton_C_UAID_FC3497DE5D473ABB01_1809742843 Label:BP_Skeleton5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1818.000 Y=20.397 Z=-39.154), Max=(X=1882.000 Y=77.603 Z=47.154) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:25FA7C004C486B40B4F2E2A5ECC4F1C6 BaseClass:/Game/Blueprints/Enemies/Skeleton/BP_Skeleton.BP_Skeleton_C NativeClass:/Script/PaperZD.PaperZDCharacter Name:BP_Skeleton_C_UAID_FC3497DE5D473ABB01_1863553845 Label:BP_Skeleton7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1658.000 Y=20.397 Z=-39.154), Max=(X=1722.000 Y=77.603 Z=47.154) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2E0C968D47A97B5D351BCE85330CC5BF BaseClass:/Game/Blueprints/Enemies/Skeleton/BP_Skeleton.BP_Skeleton_C NativeClass:/Script/PaperZD.PaperZDCharacter Name:BP_Skeleton_C_UAID_FC3497DE5D473ABB01_1782179840 Label:BP_Skeleton2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2358.000 Y=20.397 Z=340.846), Max=(X=2422.000 Y=77.603 Z=427.154) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:365BC55C48C8BF16845F5FA3E4B72C52 BaseClass: NativeClass:/Script/Engine.TriggerBox Name:TriggerBox_UAID_FC3497DE5D471CBB01_1237208564 Label:TriggerBox6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1717.209 Y=-20.200 Z=419.900), Max=(X=1922.791 Y=60.200 Z=500.100) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3BDFCD554EE5CCBE6D58BE8C32FBC41B BaseClass: NativeClass:/Script/Engine.TriggerBox Name:TriggerBox_UAID_FC3497DE5D471BBB01_2122037385 Label:TriggerBox3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=500.969 Y=-11.800 Z=806.200), Max=(X=679.031 Y=71.800 Z=933.800) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3C0BFDC9433F7DD5649F118A41EDD852 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:4F6F3BA3450E239E38C2418DC35504DF BaseClass: NativeClass:/Script/Engine.TriggerBox Name:TriggerBox_UAID_FC3497DE5D471CBB01_1316036566 Label:TriggerBox8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3829.116 Y=-10.200 Z=-70.100), Max=(X=4050.884 Y=70.200 Z=10.100) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:58AB328647C7F16D489DE79C185124E4 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_F02F74551BF5599B01_1153002503 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=270.000 Y=20.000 Z=230.000), Max=(X=350.000 Y=100.000 Z=414.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:5BB1D89A4E1C82F05A62289E38EBF54D BaseClass:/Game/Blueprints/Enemies/Skeleton/BP_Skeleton.BP_Skeleton_C NativeClass:/Script/PaperZD.PaperZDCharacter Name:BP_Skeleton_C_UAID_FC3497DE5D473ABB01_1803975842 Label:BP_Skeleton4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3118.000 Y=20.397 Z=-49.154), Max=(X=3182.000 Y=77.603 Z=37.154) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6EC44B314F98C97DBB429E9DD0BB1C5B BaseClass: NativeClass:/Script/Engine.TriggerBox Name:TriggerBox_UAID_FC3497DE5D471CBB01_1159462562 Label:TriggerBox4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1780.969 Y=-21.800 Z=785.900), Max=(X=1959.031 Y=61.800 Z=934.100) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7AA69E9E4C3E306AEAE47FAFBABD5426 BaseClass:/Game/Blueprints/Enemies/Skeleton/BP_Skeleton.BP_Skeleton_C NativeClass:/Script/PaperZD.PaperZDCharacter Name:BP_Skeleton_C_UAID_FC3497DE5D473ABB01_2056831851 Label:BP_Skeleton13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1738.000 Y=20.397 Z=-39.154), Max=(X=1802.000 Y=77.603 Z=47.154) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7F7AA8E54168D2309DF93A9479DBC6F0 BaseClass:/Game/Blueprints/Enemies/Skeleton/BP_Skeleton.BP_Skeleton_C NativeClass:/Script/PaperZD.PaperZDCharacter Name:BP_Skeleton_C_UAID_FC3497DE5D473ABB01_2055245850 Label:BP_Skeleton12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1538.000 Y=20.397 Z=-39.154), Max=(X=1602.000 Y=77.603 Z=47.154) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:828CCD974AD5B6237B5EFB9B3F1F8F9C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC3497DE5D47B5AF01_1383020817 Label:StaticMeshActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2310.000 Y=170.000 Z=590.000), Max=(X=2310.000 Y=170.000 Z=590.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:874F8AC04262AD402C9E3F84B0A7106E BaseClass:/Game/Blueprints/Enemies/Skeleton/BP_Skeleton.BP_Skeleton_C NativeClass:/Script/PaperZD.PaperZDCharacter Name:BP_Skeleton_C_UAID_FC3497DE5D473ABB01_1888516847 Label:BP_Skeleton9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2158.000 Y=20.397 Z=-39.154), Max=(X=2222.000 Y=77.603 Z=47.154) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8CC0E48F472CE2C92AEEBE81DE2B23BE BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_A85E45CFE40401D200_1470381760 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8D7C08E04D472A2CD0AE99A667DD28FA BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:8D9E37E0402103ACABC1D1A898329883 BaseClass:/Game/Blueprints/Enemies/Skeleton/BP_Skeleton.BP_Skeleton_C NativeClass:/Script/PaperZD.PaperZDCharacter Name:BP_Skeleton_C_UAID_FC3497DE5D473ABB01_1794395841 Label:BP_Skeleton3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3118.000 Y=20.397 Z=270.846), Max=(X=3182.000 Y=77.603 Z=357.154) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9038808E407719F69B19758AEBEA2559 BaseClass:/Game/Blueprints/Enemies/Skeleton/BP_Skeleton.BP_Skeleton_C NativeClass:/Script/PaperZD.PaperZDCharacter Name:BP_Skeleton_C_UAID_FC3497DE5D473ABB01_2051703848 Label:BP_Skeleton10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1078.000 Y=20.397 Z=-39.154), Max=(X=1142.000 Y=77.603 Z=47.154) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B5791DBF45DEE415F7485C9C00870985 BaseClass: NativeClass:/Script/Paper2D.PaperSpriteActor Name:PaperSpriteActor_UAID_FC3497DE5D47B5AF01_1187286816 Label:caveRemasteredV7_Sprite SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2001.430 Y=-55.925 Z=-297.380), Max=(X=4430.500 Y=-4.075 Z=1242.565) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B5CC4B1547A6A70F80DAE0AB6A8BE16D BaseClass: NativeClass:/Script/Engine.TriggerBox Name:TriggerBox_UAID_FC3497DE5D471CBB01_1175996563 Label:TriggerBox5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2840.969 Y=-11.800 Z=691.200), Max=(X=3019.031 Y=71.800 Z=928.800) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B730F1E748CCAF80B2B6A494CE1C6C5C BaseClass: NativeClass:/Script/Engine.TriggerBox Name:TriggerBox_UAID_FC3497DE5D471BBB01_2004949384 Label:TriggerBox2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=475.697 Y=-39.200 Z=-72.200), Max=(X=804.303 Y=59.200 Z=12.200) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C214D78846C69B5D6BF9049E94662B9B BaseClass:/Game/Blueprints/Enemies/Skeleton/BP_Skeleton.BP_Skeleton_C NativeClass:/Script/PaperZD.PaperZDCharacter Name:BP_Skeleton_C_UAID_FC3497DE5D473ABB01_2053503849 Label:BP_Skeleton11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1318.000 Y=20.397 Z=-39.154), Max=(X=1382.000 Y=77.603 Z=47.154) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C751633D4AD32CE030C744B5F752076D BaseClass:/Game/Blueprints/Enemies/Skeleton/BP_Skeleton.BP_Skeleton_C NativeClass:/Script/PaperZD.PaperZDCharacter Name:BP_Skeleton_C_UAID_FC3497DE5D473ABB01_1824149844 Label:BP_Skeleton6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1428.000 Y=20.397 Z=-39.154), Max=(X=1492.000 Y=77.603 Z=47.154) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:CE91841845FBC560B35509B0C522D7F1 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E94C21C847ED53D1F623ECB7F8F0C79E BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F3708A7C43B43EE50DC2EBAD0B6C5C55 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:051098A74E70665CF03E94B5911D8BB5 BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_FC3497DE5D47B4AF01_1982217639 Label:Tilemap_TileMap SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-28.000 Y=-97.500 Z=-392.000), Max=(X=4452.000 Y=77.500 Z=1288.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:094935CE45BA93E36E4D42AEFD4D9959 BaseClass: NativeClass:/Script/Paper2D.PaperSpriteActor Name:PaperSpriteActor_UAID_FC3497DE5D471ABB01_1194028207 Label:caveRemasteredV7_Sprite2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=47.553 Y=-56.112 Z=-302.930), Max=(X=2025.875 Y=-3.888 Z=1248.152) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:10CEEF564EE76AFC71A3869B1B824BFF BaseClass: NativeClass:/Script/Engine.TriggerBox Name:TriggerBox_UAID_FC3497DE5D471CBB01_1268679565 Label:TriggerBox7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2027.103 Y=-0.200 Z=-46.700), Max=(X=2112.897 Y=80.200 Z=226.700) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:1120220F467D7B5C740D76B080E08934 BaseClass: NativeClass:/Script/Engine.TriggerBox Name:TriggerBox_UAID_FC3497DE5D47C6AF01_1826195807 Label:TriggerBox SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2446.250 Y=0.000 Z=-60.000), Max=(X=3093.750 Y=80.000 Z=20.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:1629EAD04599C2DBB2035A89B7F114C4 BaseClass:/Game/Blueprints/Enemies/Skeleton/BP_Skeleton.BP_Skeleton_C NativeClass:/Script/PaperZD.PaperZDCharacter Name:BP_Skeleton_C_UAID_FC3497DE5D4723BB01_2037883799 Label:BP_Skeleton SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=958.000 Y=20.397 Z=-39.154), Max=(X=1022.000 Y=77.603 Z=47.154) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:18BD402749A9E0FAE4B98891B8E0D785 BaseClass:/Game/Blueprints/Enemies/Skeleton/BP_Skeleton.BP_Skeleton_C NativeClass:/Script/PaperZD.PaperZDCharacter Name:BP_Skeleton_C_UAID_FC3497DE5D473ABB01_1878418846 Label:BP_Skeleton8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1218.000 Y=20.397 Z=-39.154), Max=(X=1282.000 Y=77.603 Z=47.154) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:1A846CC9478A26ABC960EFAB14286DC1 BaseClass:/Game/Blueprints/Enemies/Skeleton/BP_Skeleton.BP_Skeleton_C NativeClass:/Script/PaperZD.PaperZDCharacter Name:BP_Skeleton_C_UAID_FC3497DE5D473ABB01_1809742843 Label:BP_Skeleton5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1818.000 Y=20.397 Z=-39.154), Max=(X=1882.000 Y=77.603 Z=47.154) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:25FA7C004C486B40B4F2E2A5ECC4F1C6 BaseClass:/Game/Blueprints/Enemies/Skeleton/BP_Skeleton.BP_Skeleton_C NativeClass:/Script/PaperZD.PaperZDCharacter Name:BP_Skeleton_C_UAID_FC3497DE5D473ABB01_1863553845 Label:BP_Skeleton7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1658.000 Y=20.397 Z=-39.154), Max=(X=1722.000 Y=77.603 Z=47.154) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:2E0C968D47A97B5D351BCE85330CC5BF BaseClass:/Game/Blueprints/Enemies/Skeleton/BP_Skeleton.BP_Skeleton_C NativeClass:/Script/PaperZD.PaperZDCharacter Name:BP_Skeleton_C_UAID_FC3497DE5D473ABB01_1782179840 Label:BP_Skeleton2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2358.000 Y=20.397 Z=340.846), Max=(X=2422.000 Y=77.603 Z=427.154) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:365BC55C48C8BF16845F5FA3E4B72C52 BaseClass: NativeClass:/Script/Engine.TriggerBox Name:TriggerBox_UAID_FC3497DE5D471CBB01_1237208564 Label:TriggerBox6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1717.209 Y=-20.200 Z=419.900), Max=(X=1922.791 Y=60.200 Z=500.100) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:3BDFCD554EE5CCBE6D58BE8C32FBC41B BaseClass: NativeClass:/Script/Engine.TriggerBox Name:TriggerBox_UAID_FC3497DE5D471BBB01_2122037385 Label:TriggerBox3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=500.969 Y=-11.800 Z=806.200), Max=(X=679.031 Y=71.800 Z=933.800) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:3C0BFDC9433F7DD5649F118A41EDD852 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:4F6F3BA3450E239E38C2418DC35504DF BaseClass: NativeClass:/Script/Engine.TriggerBox Name:TriggerBox_UAID_FC3497DE5D471CBB01_1316036566 Label:TriggerBox8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3829.116 Y=-10.200 Z=-70.100), Max=(X=4050.884 Y=70.200 Z=10.100) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:58AB328647C7F16D489DE79C185124E4 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_F02F74551BF5599B01_1153002503 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=270.000 Y=20.000 Z=230.000), Max=(X=350.000 Y=100.000 Z=414.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:5BB1D89A4E1C82F05A62289E38EBF54D BaseClass:/Game/Blueprints/Enemies/Skeleton/BP_Skeleton.BP_Skeleton_C NativeClass:/Script/PaperZD.PaperZDCharacter Name:BP_Skeleton_C_UAID_FC3497DE5D473ABB01_1803975842 Label:BP_Skeleton4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3118.000 Y=20.397 Z=-49.154), Max=(X=3182.000 Y=77.603 Z=37.154) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:6EC44B314F98C97DBB429E9DD0BB1C5B BaseClass: NativeClass:/Script/Engine.TriggerBox Name:TriggerBox_UAID_FC3497DE5D471CBB01_1159462562 Label:TriggerBox4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1780.969 Y=-21.800 Z=785.900), Max=(X=1959.031 Y=61.800 Z=934.100) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:7AA69E9E4C3E306AEAE47FAFBABD5426 BaseClass:/Game/Blueprints/Enemies/Skeleton/BP_Skeleton.BP_Skeleton_C NativeClass:/Script/PaperZD.PaperZDCharacter Name:BP_Skeleton_C_UAID_FC3497DE5D473ABB01_2056831851 Label:BP_Skeleton13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1738.000 Y=20.397 Z=-39.154), Max=(X=1802.000 Y=77.603 Z=47.154) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:7F7AA8E54168D2309DF93A9479DBC6F0 BaseClass:/Game/Blueprints/Enemies/Skeleton/BP_Skeleton.BP_Skeleton_C NativeClass:/Script/PaperZD.PaperZDCharacter Name:BP_Skeleton_C_UAID_FC3497DE5D473ABB01_2055245850 Label:BP_Skeleton12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1538.000 Y=20.397 Z=-39.154), Max=(X=1602.000 Y=77.603 Z=47.154) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:828CCD974AD5B6237B5EFB9B3F1F8F9C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC3497DE5D47B5AF01_1383020817 Label:StaticMeshActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2310.000 Y=170.000 Z=590.000), Max=(X=2310.000 Y=170.000 Z=590.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:874F8AC04262AD402C9E3F84B0A7106E BaseClass:/Game/Blueprints/Enemies/Skeleton/BP_Skeleton.BP_Skeleton_C NativeClass:/Script/PaperZD.PaperZDCharacter Name:BP_Skeleton_C_UAID_FC3497DE5D473ABB01_1888516847 Label:BP_Skeleton9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2158.000 Y=20.397 Z=-39.154), Max=(X=2222.000 Y=77.603 Z=47.154) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:8CC0E48F472CE2C92AEEBE81DE2B23BE BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_A85E45CFE40401D200_1470381760 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:8D7C08E04D472A2CD0AE99A667DD28FA BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:8D9E37E0402103ACABC1D1A898329883 BaseClass:/Game/Blueprints/Enemies/Skeleton/BP_Skeleton.BP_Skeleton_C NativeClass:/Script/PaperZD.PaperZDCharacter Name:BP_Skeleton_C_UAID_FC3497DE5D473ABB01_1794395841 Label:BP_Skeleton3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3118.000 Y=20.397 Z=270.846), Max=(X=3182.000 Y=77.603 Z=357.154) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:9038808E407719F69B19758AEBEA2559 BaseClass:/Game/Blueprints/Enemies/Skeleton/BP_Skeleton.BP_Skeleton_C NativeClass:/Script/PaperZD.PaperZDCharacter Name:BP_Skeleton_C_UAID_FC3497DE5D473ABB01_2051703848 Label:BP_Skeleton10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1078.000 Y=20.397 Z=-39.154), Max=(X=1142.000 Y=77.603 Z=47.154) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:B5791DBF45DEE415F7485C9C00870985 BaseClass: NativeClass:/Script/Paper2D.PaperSpriteActor Name:PaperSpriteActor_UAID_FC3497DE5D47B5AF01_1187286816 Label:caveRemasteredV7_Sprite SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2001.430 Y=-55.925 Z=-297.380), Max=(X=4430.500 Y=-4.075 Z=1242.565) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:B5CC4B1547A6A70F80DAE0AB6A8BE16D BaseClass: NativeClass:/Script/Engine.TriggerBox Name:TriggerBox_UAID_FC3497DE5D471CBB01_1175996563 Label:TriggerBox5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2840.969 Y=-11.800 Z=691.200), Max=(X=3019.031 Y=71.800 Z=928.800) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:B730F1E748CCAF80B2B6A494CE1C6C5C BaseClass: NativeClass:/Script/Engine.TriggerBox Name:TriggerBox_UAID_FC3497DE5D471BBB01_2004949384 Label:TriggerBox2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=475.697 Y=-39.200 Z=-72.200), Max=(X=804.303 Y=59.200 Z=12.200) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:C214D78846C69B5D6BF9049E94662B9B BaseClass:/Game/Blueprints/Enemies/Skeleton/BP_Skeleton.BP_Skeleton_C NativeClass:/Script/PaperZD.PaperZDCharacter Name:BP_Skeleton_C_UAID_FC3497DE5D473ABB01_2053503849 Label:BP_Skeleton11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1318.000 Y=20.397 Z=-39.154), Max=(X=1382.000 Y=77.603 Z=47.154) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 28]
+ |   |   |   |- Guid:C751633D4AD32CE030C744B5F752076D BaseClass:/Game/Blueprints/Enemies/Skeleton/BP_Skeleton.BP_Skeleton_C NativeClass:/Script/PaperZD.PaperZDCharacter Name:BP_Skeleton_C_UAID_FC3497DE5D473ABB01_1824149844 Label:BP_Skeleton6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1428.000 Y=20.397 Z=-39.154), Max=(X=1492.000 Y=77.603 Z=47.154) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 29]
+ |   |   |   |- Guid:CE91841845FBC560B35509B0C522D7F1 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 30]
+ |   |   |   |- Guid:E94C21C847ED53D1F623ECB7F8F0C79E BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 31]
+ |   |   |   |- Guid:F3708A7C43B43EE50DC2EBAD0B6C5C55 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-28.000 Y=-97.500 Z=-392.000), Max=(X=4452.000 Y=170.000 Z=1288.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Map/Midterm_CavernEscape
+----------------------------------------------------------------------------------------------------------------
+Midterm_CavernEscape - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Midterm_CavernEscape Persistent Level
+ |- Always loaded Actor Count: 39 
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/Map/Midterm_CavernEscape
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.BP_Skeleton_C_UAID_FC3497DE5D4723BB01_2037883799
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/7/UD/CNULIFJHIQAJPTD3N8IA1D
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.BP_Skeleton_C_UAID_FC3497DE5D473ABB01_1782179840
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/4/OW/O26W25K4F63OWQS9T36SNH
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.BP_Skeleton_C_UAID_FC3497DE5D473ABB01_1794395841
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/7/EX/WVKZM5SJ61TF1SHXZ8TY16
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.BP_Skeleton_C_UAID_FC3497DE5D473ABB01_1803975842
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/6/XG/AII6YT8FUAQOA8VQCG2AIA
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.BP_Skeleton_C_UAID_FC3497DE5D473ABB01_1809742843
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/E/5A/2VXAMJVXL11RTRVV4XE0R1
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.BP_Skeleton_C_UAID_FC3497DE5D473ABB01_1824149844
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/4/DC/T4VD4YJURNF4I6VVH5B2HR
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.BP_Skeleton_C_UAID_FC3497DE5D473ABB01_1863553845
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/A/GJ/MYZBMDPNHM2XXJK44VH2V7
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.BP_Skeleton_C_UAID_FC3497DE5D473ABB01_1878418846
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/A/UH/ZS832N4ATYI2WZ157ZUE0Y
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.BP_Skeleton_C_UAID_FC3497DE5D473ABB01_1888516847
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/7/HU/KAVG6SPUEVNXATA7KXNVRX
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.BP_Skeleton_C_UAID_FC3497DE5D473ABB01_2051703848
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/1/UG/XGGLFAKMCOFRXGIW3JDRM8
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.BP_Skeleton_C_UAID_FC3497DE5D473ABB01_2053503849
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/B/GY/WE0LSM3SCH7QWLWFA0IJR8
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.BP_Skeleton_C_UAID_FC3497DE5D473ABB01_2055245850
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/5/37/AOBN5LXXT2DZ6DSK1SCT2H
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.BP_Skeleton_C_UAID_FC3497DE5D473ABB01_2056831851
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/4/UC/EFOMXC21H9HMRDLJX0ZH4E
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.Brush_0
+ |- Actor Package: /Game/Map/Midterm_CavernEscape
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/Map/Midterm_CavernEscape
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.DirectionalLight_UAID_A85E45CFE40401D200_1470382761
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/0/A9/2O77XSGBWIFOYZLUJKNAQZ
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/7/64/9XMYYEHUK9Z2YNBB2397PB
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/Map/Midterm_CavernEscape
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.Midterm_CavernEscape_C_9
+ |- Actor Package: /Game/Map/Midterm_CavernEscape
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.PaperSpriteActor_UAID_FC3497DE5D471ABB01_1194028207
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/B/UL/R251CELAVHHU0I1PCXT0DC
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.PaperSpriteActor_UAID_FC3497DE5D47B5AF01_1187286816
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/B/58/IAQAPJCLVLH2WLR676A87J
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.PaperTileMapActor_UAID_FC3497DE5D47B4AF01_1982217639
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/0/R2/F8DL9RCDWSM60FXSDMPRQS
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.PlayerStart_UAID_F02F74551BF5599B01_1153002503
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/3/FQ/0SOM1HQPVSU7520VB9GW9E
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/6/0B/RGJJWIJ2JX0YPLOS1H5TGT
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/9/P7/RSGOL83E0GWDBNIZ08VL9N
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.StaticMeshActor_UAID_FC3497DE5D47B5AF01_1383020817
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/B/1I/10O1KKMGAYH63U5Q1R6W18
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.TriggerBox_UAID_FC3497DE5D471BBB01_2004949384
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/6/X1/XA5WJ3LEFLPG7VFB5G6DBQ
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.TriggerBox_UAID_FC3497DE5D471BBB01_2122037385
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/0/5G/68RQ09EOY6TIJS9Y05Z65U
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.TriggerBox_UAID_FC3497DE5D471CBB01_1159462562
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/B/N0/W4SRVWPVBYEYJ7CP0CBWH4
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.TriggerBox_UAID_FC3497DE5D471CBB01_1175996563
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/C/ZH/7J13YB6Q0LQED96DUIBIVF
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.TriggerBox_UAID_FC3497DE5D471CBB01_1237208564
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/A/3R/QSVJJHN36IAVX5A9F1F7RC
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.TriggerBox_UAID_FC3497DE5D471CBB01_1268679565
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/C/AA/FOBBPD4RPANEFS6KV0EWA4
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.TriggerBox_UAID_FC3497DE5D471CBB01_1316036566
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/9/MP/C4PAUIQR2QD69LF9TIV08C
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.TriggerBox_UAID_FC3497DE5D47C6AF01_1826195807
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/6/6F/A05Q4XVU8W7C7C0SYPYELK
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.VolumetricCloud_UAID_A85E45CFE40401D200_1470381760
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/9/LC/9IEIIRW9RP2LL2RHV661XM
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/7/TB/ZYZTXVPIEBUS5M9ZLJ81EU
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.WorldPartitionMiniMap_UAID_3497F631D5890DD300_1296925927
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/8/D0/SE3GOBYCIUDQYEF8R7Z2ZI
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.WorldSettings
+ |- Actor Package: /Game/Map/Midterm_CavernEscape
+
+----------------------------------------------------------------------------------------------------------------
+Midterm_CavernEscape - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 25600
+      World Bounds: IsValid=true, Min=(X=-28.000 Y=-97.500 Z=-392.000), Max=(X=4452.000 Y=170.000 Z=1288.000)
+     Loading Range: 76800.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 2
+ |- Level  0: Cell Count    1 | Cell Size   25600 | Actor Count   24 (100.0%)
+ |- Level  1: Cell Count    0 | Cell Size   51200 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell Midterm_CavernEscape_MainGrid_L0_X0_Y0 (BUMQEWK12A3XLA5M7NN3XEI2D)
+ |   |- Actor Count: 24
+ |   |-          Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.PaperTileMapActor_UAID_FC3497DE5D47B4AF01_1982217639
+ |   |-       Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/0/R2/F8DL9RCDWSM60FXSDMPRQS
+ |   |- Actor Instance Guid: 051098A74E70665CF03E94B5911D8BB5
+ |   |-          Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.PaperSpriteActor_UAID_FC3497DE5D471ABB01_1194028207
+ |   |-       Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/B/UL/R251CELAVHHU0I1PCXT0DC
+ |   |- Actor Instance Guid: 094935CE45BA93E36E4D42AEFD4D9959
+ |   |-          Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.TriggerBox_UAID_FC3497DE5D471CBB01_1268679565
+ |   |-       Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/C/AA/FOBBPD4RPANEFS6KV0EWA4
+ |   |- Actor Instance Guid: 10CEEF564EE76AFC71A3869B1B824BFF
+ |   |-          Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.BP_Skeleton_C_UAID_FC3497DE5D4723BB01_2037883799
+ |   |-       Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/7/UD/CNULIFJHIQAJPTD3N8IA1D
+ |   |- Actor Instance Guid: 1629EAD04599C2DBB2035A89B7F114C4
+ |   |-          Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.BP_Skeleton_C_UAID_FC3497DE5D473ABB01_1878418846
+ |   |-       Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/A/UH/ZS832N4ATYI2WZ157ZUE0Y
+ |   |- Actor Instance Guid: 18BD402749A9E0FAE4B98891B8E0D785
+ |   |-          Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.BP_Skeleton_C_UAID_FC3497DE5D473ABB01_1809742843
+ |   |-       Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/E/5A/2VXAMJVXL11RTRVV4XE0R1
+ |   |- Actor Instance Guid: 1A846CC9478A26ABC960EFAB14286DC1
+ |   |-          Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.BP_Skeleton_C_UAID_FC3497DE5D473ABB01_1863553845
+ |   |-       Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/A/GJ/MYZBMDPNHM2XXJK44VH2V7
+ |   |- Actor Instance Guid: 25FA7C004C486B40B4F2E2A5ECC4F1C6
+ |   |-          Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.BP_Skeleton_C_UAID_FC3497DE5D473ABB01_1782179840
+ |   |-       Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/4/OW/O26W25K4F63OWQS9T36SNH
+ |   |- Actor Instance Guid: 2E0C968D47A97B5D351BCE85330CC5BF
+ |   |-          Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.TriggerBox_UAID_FC3497DE5D471CBB01_1237208564
+ |   |-       Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/A/3R/QSVJJHN36IAVX5A9F1F7RC
+ |   |- Actor Instance Guid: 365BC55C48C8BF16845F5FA3E4B72C52
+ |   |-          Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.TriggerBox_UAID_FC3497DE5D471BBB01_2122037385
+ |   |-       Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/0/5G/68RQ09EOY6TIJS9Y05Z65U
+ |   |- Actor Instance Guid: 3BDFCD554EE5CCBE6D58BE8C32FBC41B
+ |   |-          Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.TriggerBox_UAID_FC3497DE5D471CBB01_1316036566
+ |   |-       Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/9/MP/C4PAUIQR2QD69LF9TIV08C
+ |   |- Actor Instance Guid: 4F6F3BA3450E239E38C2418DC35504DF
+ |   |-          Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.BP_Skeleton_C_UAID_FC3497DE5D473ABB01_1803975842
+ |   |-       Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/6/XG/AII6YT8FUAQOA8VQCG2AIA
+ |   |- Actor Instance Guid: 5BB1D89A4E1C82F05A62289E38EBF54D
+ |   |-          Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.TriggerBox_UAID_FC3497DE5D471CBB01_1159462562
+ |   |-       Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/B/N0/W4SRVWPVBYEYJ7CP0CBWH4
+ |   |- Actor Instance Guid: 6EC44B314F98C97DBB429E9DD0BB1C5B
+ |   |-          Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.BP_Skeleton_C_UAID_FC3497DE5D473ABB01_2056831851
+ |   |-       Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/4/UC/EFOMXC21H9HMRDLJX0ZH4E
+ |   |- Actor Instance Guid: 7AA69E9E4C3E306AEAE47FAFBABD5426
+ |   |-          Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.BP_Skeleton_C_UAID_FC3497DE5D473ABB01_2055245850
+ |   |-       Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/5/37/AOBN5LXXT2DZ6DSK1SCT2H
+ |   |- Actor Instance Guid: 7F7AA8E54168D2309DF93A9479DBC6F0
+ |   |-          Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.StaticMeshActor_UAID_FC3497DE5D47B5AF01_1383020817
+ |   |-       Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/B/1I/10O1KKMGAYH63U5Q1R6W18
+ |   |- Actor Instance Guid: 828CCD974AD5B6237B5EFB9B3F1F8F9C
+ |   |-          Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.BP_Skeleton_C_UAID_FC3497DE5D473ABB01_1888516847
+ |   |-       Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/7/HU/KAVG6SPUEVNXATA7KXNVRX
+ |   |- Actor Instance Guid: 874F8AC04262AD402C9E3F84B0A7106E
+ |   |-          Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.BP_Skeleton_C_UAID_FC3497DE5D473ABB01_1794395841
+ |   |-       Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/7/EX/WVKZM5SJ61TF1SHXZ8TY16
+ |   |- Actor Instance Guid: 8D9E37E0402103ACABC1D1A898329883
+ |   |-          Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.BP_Skeleton_C_UAID_FC3497DE5D473ABB01_2051703848
+ |   |-       Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/1/UG/XGGLFAKMCOFRXGIW3JDRM8
+ |   |- Actor Instance Guid: 9038808E407719F69B19758AEBEA2559
+ |   |-          Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.PaperSpriteActor_UAID_FC3497DE5D47B5AF01_1187286816
+ |   |-       Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/B/58/IAQAPJCLVLH2WLR676A87J
+ |   |- Actor Instance Guid: B5791DBF45DEE415F7485C9C00870985
+ |   |-          Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.TriggerBox_UAID_FC3497DE5D471CBB01_1175996563
+ |   |-       Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/C/ZH/7J13YB6Q0LQED96DUIBIVF
+ |   |- Actor Instance Guid: B5CC4B1547A6A70F80DAE0AB6A8BE16D
+ |   |-          Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.TriggerBox_UAID_FC3497DE5D471BBB01_2004949384
+ |   |-       Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/6/X1/XA5WJ3LEFLPG7VFB5G6DBQ
+ |   |- Actor Instance Guid: B730F1E748CCAF80B2B6A494CE1C6C5C
+ |   |-          Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.BP_Skeleton_C_UAID_FC3497DE5D473ABB01_2053503849
+ |   |-       Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/B/GY/WE0LSM3SCH7QWLWFA0IJR8
+ |   |- Actor Instance Guid: C214D78846C69B5D6BF9049E94662B9B
+ |   |-          Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.BP_Skeleton_C_UAID_FC3497DE5D473ABB01_1824149844
+ |   |-       Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/4/DC/T4VD4YJURNF4I6VVH5B2HR
+ |   |- Actor Instance Guid: C751633D4AD32CE030C744B5F752076D
+[+] Content of Grid Level 1
+

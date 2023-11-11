@@ -1,0 +1,115 @@
+[+] Containers:
+ |- [+] Container: /Game/Map/Midterm_CavernEscape
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:051098A74E70665CF03E94B5911D8BB5 BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_FC3497DE5D47B4AF01_1982217639 Label:Tilemap_TileMap SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-28.000 Y=-97.500 Z=-392.000), Max=(X=4452.000 Y=77.500 Z=1288.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:1120220F467D7B5C740D76B080E08934 BaseClass: NativeClass:/Script/Engine.TriggerBox Name:TriggerBox_UAID_FC3497DE5D47C6AF01_1826195807 Label:TriggerBox SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2446.250 Y=-70.000 Z=-60.000), Max=(X=3093.750 Y=10.000 Z=20.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3C0BFDC9433F7DD5649F118A41EDD852 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:58AB328647C7F16D489DE79C185124E4 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_F02F74551BF5599B01_1153002503 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=1140.000 Y=-60.000 Z=210.000), Max=(X=1220.000 Y=20.000 Z=394.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:828CCD974AD5B6237B5EFB9B3F1F8F9C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC3497DE5D47B5AF01_1383020817 Label:StaticMeshActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2310.000 Y=170.000 Z=590.000), Max=(X=2310.000 Y=170.000 Z=590.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8CC0E48F472CE2C92AEEBE81DE2B23BE BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_A85E45CFE40401D200_1470381760 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8D7C08E04D472A2CD0AE99A667DD28FA BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:B5791DBF45DEE415F7485C9C00870985 BaseClass: NativeClass:/Script/Paper2D.PaperSpriteActor Name:PaperSpriteActor_UAID_FC3497DE5D47B5AF01_1187286816 Label:caveRemasteredV7_Sprite SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1057.500 Y=-67.500 Z=-630.000), Max=(X=3315.000 Y=7.500 Z=1597.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:CE91841845FBC560B35509B0C522D7F1 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E94C21C847ED53D1F623ECB7F8F0C79E BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F3708A7C43B43EE50DC2EBAD0B6C5C55 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:051098A74E70665CF03E94B5911D8BB5 BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_FC3497DE5D47B4AF01_1982217639 Label:Tilemap_TileMap SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-28.000 Y=-97.500 Z=-392.000), Max=(X=4452.000 Y=77.500 Z=1288.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:1120220F467D7B5C740D76B080E08934 BaseClass: NativeClass:/Script/Engine.TriggerBox Name:TriggerBox_UAID_FC3497DE5D47C6AF01_1826195807 Label:TriggerBox SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2446.250 Y=-70.000 Z=-60.000), Max=(X=3093.750 Y=10.000 Z=20.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:3C0BFDC9433F7DD5649F118A41EDD852 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:58AB328647C7F16D489DE79C185124E4 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_F02F74551BF5599B01_1153002503 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=1140.000 Y=-60.000 Z=210.000), Max=(X=1220.000 Y=20.000 Z=394.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:828CCD974AD5B6237B5EFB9B3F1F8F9C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC3497DE5D47B5AF01_1383020817 Label:StaticMeshActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2310.000 Y=170.000 Z=590.000), Max=(X=2310.000 Y=170.000 Z=590.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:8CC0E48F472CE2C92AEEBE81DE2B23BE BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_A85E45CFE40401D200_1470381760 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:8D7C08E04D472A2CD0AE99A667DD28FA BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:B5791DBF45DEE415F7485C9C00870985 BaseClass: NativeClass:/Script/Paper2D.PaperSpriteActor Name:PaperSpriteActor_UAID_FC3497DE5D47B5AF01_1187286816 Label:caveRemasteredV7_Sprite SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1057.500 Y=-67.500 Z=-630.000), Max=(X=3315.000 Y=7.500 Z=1597.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:CE91841845FBC560B35509B0C522D7F1 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:E94C21C847ED53D1F623ECB7F8F0C79E BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:F3708A7C43B43EE50DC2EBAD0B6C5C55 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-28.000 Y=-97.500 Z=-630.000), Max=(X=4452.000 Y=170.000 Z=1597.500)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Map/Midterm_CavernEscape
+----------------------------------------------------------------------------------------------------------------
+Midterm_CavernEscape - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Midterm_CavernEscape Persistent Level
+ |- Always loaded Actor Count: 18 
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/Map/Midterm_CavernEscape
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.Brush_0
+ |- Actor Package: /Game/Map/Midterm_CavernEscape
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/Map/Midterm_CavernEscape
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.DirectionalLight_UAID_A85E45CFE40401D200_1470382761
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/0/A9/2O77XSGBWIFOYZLUJKNAQZ
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/7/64/9XMYYEHUK9Z2YNBB2397PB
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/Map/Midterm_CavernEscape
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.Midterm_CavernEscape_C_9
+ |- Actor Package: /Game/Map/Midterm_CavernEscape
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.PaperSpriteActor_UAID_FC3497DE5D47B5AF01_1187286816
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/B/58/IAQAPJCLVLH2WLR676A87J
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.PaperTileMapActor_UAID_FC3497DE5D47B4AF01_1982217639
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/0/R2/F8DL9RCDWSM60FXSDMPRQS
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.PlayerStart_UAID_F02F74551BF5599B01_1153002503
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/3/FQ/0SOM1HQPVSU7520VB9GW9E
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/6/0B/RGJJWIJ2JX0YPLOS1H5TGT
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/9/P7/RSGOL83E0GWDBNIZ08VL9N
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.StaticMeshActor_UAID_FC3497DE5D47B5AF01_1383020817
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/B/1I/10O1KKMGAYH63U5Q1R6W18
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.TriggerBox_UAID_FC3497DE5D47C6AF01_1826195807
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/6/6F/A05Q4XVU8W7C7C0SYPYELK
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.VolumetricCloud_UAID_A85E45CFE40401D200_1470381760
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/9/LC/9IEIIRW9RP2LL2RHV661XM
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/7/TB/ZYZTXVPIEBUS5M9ZLJ81EU
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.WorldPartitionMiniMap_UAID_3497F631D5890DD300_1296925927
+ |- Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/8/D0/SE3GOBYCIUDQYEF8R7Z2ZI
+ |- Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.WorldSettings
+ |- Actor Package: /Game/Map/Midterm_CavernEscape
+
+----------------------------------------------------------------------------------------------------------------
+Midterm_CavernEscape - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 25600
+      World Bounds: IsValid=true, Min=(X=-28.000 Y=-97.500 Z=-630.000), Max=(X=4452.000 Y=170.000 Z=1597.500)
+     Loading Range: 76800.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 2
+ |- Level  0: Cell Count    1 | Cell Size   25600 | Actor Count    3 (100.0%)
+ |- Level  1: Cell Count    0 | Cell Size   51200 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell Midterm_CavernEscape_MainGrid_L0_X0_Y0 (BUMQEWK12A3XLA5M7NN3XEI2D)
+ |   |- Actor Count: 3
+ |   |-          Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.PaperTileMapActor_UAID_FC3497DE5D47B4AF01_1982217639
+ |   |-       Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/0/R2/F8DL9RCDWSM60FXSDMPRQS
+ |   |- Actor Instance Guid: 051098A74E70665CF03E94B5911D8BB5
+ |   |-          Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.StaticMeshActor_UAID_FC3497DE5D47B5AF01_1383020817
+ |   |-       Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/B/1I/10O1KKMGAYH63U5Q1R6W18
+ |   |- Actor Instance Guid: 828CCD974AD5B6237B5EFB9B3F1F8F9C
+ |   |-          Actor Path: /Game/Map/Midterm_CavernEscape.Midterm_CavernEscape:PersistentLevel.PaperSpriteActor_UAID_FC3497DE5D47B5AF01_1187286816
+ |   |-       Actor Package: /Game/__ExternalActors__/Map/Midterm_CavernEscape/B/58/IAQAPJCLVLH2WLR676A87J
+ |   |- Actor Instance Guid: B5791DBF45DEE415F7485C9C00870985
+[+] Content of Grid Level 1
+
