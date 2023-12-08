@@ -18,3 +18,4 @@ There should be more that 1 character (monsters?), when the main character inter
 There should be some generated assets, like "ball" or "fire". For example, should be able to fire the monsters or throw the ball to play with others. (completed)
 
 The game should be interesting and beautiful. (completed)
+
